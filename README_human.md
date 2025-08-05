@@ -53,7 +53,7 @@ I decided to audit my home Wi-Fi network to make sure it was properly secured. I
 ## 📄 Full Project Summary
 
 You can download the full write-up of both projects here:  
-[Cybersecurity_Project_Portfolio.docx](./Cybersecurity_Project_Portfolio.docx)
+[Cybersecurity_Project_Portfolio.docx](https://github.com/ktura30/cybersecurity-homelabs-kaleb/blob/main/Cybersecurity_Project_Portfolio_Simple_KalebTura.docx)
 
 ---
 
