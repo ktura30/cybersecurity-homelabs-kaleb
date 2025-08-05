@@ -1,7 +1,7 @@
 
 # 🛡️ Cybersecurity Project Portfolio
 
-Hey! I'm Noah Tamrat, a third-year IT major diving deep into cybersecurity. These are two simple but meaningful projects I worked on to build hands-on skills outside of class.
+Hey! I'm Kaleb Tura, a third-year IT major diving deep into cybersecurity. These are two simple but meaningful projects I worked on to build hands-on skills outside of class.
 
 ---
 
